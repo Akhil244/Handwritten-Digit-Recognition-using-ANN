@@ -1,5 +1,6 @@
 Description : Handwriting Digit Recognition Using ANN(Artificial Neural Network)
 
+This mini Project Involves implementing ANN From Scratch (No Tensorflow just simple numpy and math)
 
 1. To run and test the code:
    python Digits.py
