@@ -20,7 +20,3 @@ This mini-project implements a simple Artificial Neural Network (ANN) **from scr
 Install dependencies if needed:
 ```bash
 pip install numpy matplotlib
-
-Run the app:
-```bash
-python app.py
